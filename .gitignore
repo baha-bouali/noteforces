@@ -18,3 +18,5 @@ noteforces.db
 # OS files
 .DS_Store
 Thumbs.db
+requirements.txt
+./services/__pycache__
